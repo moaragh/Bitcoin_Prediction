@@ -1,2 +1,2 @@
 # Bitcoin_Prediction
-This prediction uses LSTM.
+This side project uses LSTM to predict Bitcoin Price. 
